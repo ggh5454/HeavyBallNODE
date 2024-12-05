@@ -1,7 +1,6 @@
 # Heavy Ball Neural Ordinary Differential Equations
 
-This is the official implementation of Heavy Ball Neural Ordinary Differential Equations. 
-For any questions about the code, please correspond to hedixia@ucla.edu.
+This repository is based on the official implementation of **Heavy Ball Neural Ordinary Differential Equations** by [Hedi Xia](https://github.com/hedixia/HeavyBallNODE). The original repository can be found [here](https://github.com/hedixia/HeavyBallNODE).
 The code is based on Pytorch and torchdiffeq, and all default numerical solvers used in the experiments are dopri5.
 
 ## Usage
@@ -44,6 +43,7 @@ As Jupyter Notebooks:
 
 - Point cloud separation in sec 5.1: point_cloud/nested_n_spheres_hbnode.ipynb
 - CIFAR in sec 5.2: HeavyBall_CIFAR.ipynb
+- AIX in unofficial implementation : Custom experiments included in this repository
 
 As Python files
 
